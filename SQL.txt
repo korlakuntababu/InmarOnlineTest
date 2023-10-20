@@ -1,0 +1,7 @@
+1)all the customers whose name begins with "Joe"
+  
+  Select * from Customer where Name like 'Joe%'
+
+2) all the product names ordered by customer "Joe" after '11/1/2016'
+
+   
